@@ -3,6 +3,9 @@
 int Multiply(int a, int b){
     return a*b;
 }
+void add(int a, int b){
+    std :: cout << a+b << std :: endl;
+}
 
 int main(){
 

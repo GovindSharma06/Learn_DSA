@@ -1,4 +1,6 @@
 #include <iostream>
+// angular brackets are for only compiler include paths
+// quotes are for every paths, but mainly used for relative paths
 
 int main(){
 
