@@ -5,7 +5,10 @@
     returnType nameOfTheFxn(parameters){
        code
     }
+    
+    functions that have parameters that are not used in the body of the function. These are called unreferenced parameters.
     */
+
 
 void printtext(const char message[]){
     std :: cout << message << "\n";
